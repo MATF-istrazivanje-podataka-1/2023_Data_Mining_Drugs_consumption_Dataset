@@ -7,10 +7,10 @@ Skup podataka sadrži informacije o ispitaniciima i učestalosti konzumaciji raz
 
 Cilj je uraditi analizu skupa podataka i primeniti različite tehnike mašinskog učenja kako bi se napravili modeli koji mogu predvideti učestalost konzumacije.
   
-  <h2>
+  <h2> Korišćeni algoritmi </h2>
+
     <ul>
-      <li>Klasifikacija: DecisionTreeClassifier, RandomForestClassifier KNeighborsClassifier
-      <li>Klasterovanje: KMeans, Bisecting KMeans, GaussianMixture
+      <li>Klasifikacija: DecisionTreeClassifier, KNN, SVC, MLP, RandomForestClassifier, Logistic Regression
+      <li>Klasterovanje: KMeans, DBSCAN, Agglomerative clustering
       <li>Pravila pridruživanja: Apriori
     </ul>
-  </h2>
