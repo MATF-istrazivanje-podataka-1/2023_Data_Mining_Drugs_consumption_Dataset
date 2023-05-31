@@ -14,3 +14,14 @@ Cilj je uraditi analizu skupa podataka i primeniti različite tehnike mašinskog
   <li>Klasterovanje: KMeans, DBSCAN, Agglomerative clustering
   <li>Pravila pridruživanja: Apriori
   </ul>
+  <br>
+  
+  <h2> Korišćene biblioteke </h2>
+    <ul>
+      <li>`sklearn`    
+      <li>`numpy`
+      <li>`pandas`
+      <li>`seaborn`
+      <li>`joblib`
+    </ul>
+  <br>
