@@ -18,8 +18,8 @@ Cilj je uraditi analizu skupa podataka i primeniti različite tehnike mašinskog
   
   <h2> Korišćene biblioteke </h2>
      ```    
-      sklearn    
-      numpy
+      `sklearn`    
+      numpy`
       pandas
       seaborn
       joblib
