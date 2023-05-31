@@ -17,7 +17,7 @@ Cilj je uraditi analizu skupa podataka i primeniti različite tehnike mašinskog
   <br>
   
   <h2> Korišćene biblioteke </h2>
-     ``````    
+     ```    
       sklearn    
       numpy
       pandas
