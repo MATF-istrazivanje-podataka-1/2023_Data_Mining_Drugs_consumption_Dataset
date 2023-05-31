@@ -18,10 +18,10 @@ Cilj je uraditi analizu skupa podataka i primeniti različite tehnike mašinskog
   
   <h2> Korišćene biblioteke </h2>
      ```    
-      `sklearn`    
-      numpy`
-      pandas
-      seaborn
-      joblib
+      <b>sklearn    
+      <b>numpy
+      <b>pandas
+      <b>seaborn
+      <b>joblib
      ```
   <br>
