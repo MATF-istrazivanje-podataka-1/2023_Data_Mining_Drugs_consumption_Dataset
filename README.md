@@ -1,5 +1,5 @@
 2023_Data_Mining_Drugs_consumption_Dataset <br>
-<h1>Analiza skupa podataka<\h1>
+<h1>Analiza skupa podataka</h1>
 Autor: David Živković 098/2020 <br>
 
 U ovom projektu prikazan je proces rada sa podacima preuzetog sa linka: https://archive-beta.ics.uci.edu/dataset/373/drug+consumption+quantified. <br>
